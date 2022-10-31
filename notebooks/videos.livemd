@@ -18,7 +18,7 @@
 * [Jim Weirich • Y Not - Adventures in Functional Programming • Ruby Conf 12](https://www.youtube.com/watch?v=FITJMJjASUs)
 
 ## Elixir
-* [Jose Valim • Erlang Factory SF 2015 • What Elixir is about](https://www.youtube.com/watch?v=Lqo9-pQuRKE)
+* [Jose Valim • What Elixir is about • Erlang Factory SF 2015](https://www.youtube.com/watch?v=Lqo9-pQuRKE)
 * [Erlang Solutions • Why You Should Learn Erlang & Elixir](https://www.youtube.com/watch?v=_xg7u9iT_tU)
 * [Saša Juric • The Soul of Erlang and Elixir • GOTO 2019](https://www.youtube.com/watch?v=JvBT4XBdoUE)
 * [Fred Hebert • The Hitchhiker's Guide to the Unexpected - Code BEAM SF 2018](https://www.youtube.com/watch?v=W0BR_tWZChQ)
