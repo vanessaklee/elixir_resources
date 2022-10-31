@@ -6,6 +6,7 @@
 * [Joe Armstrong • Keynote: The Forgotten Ideas in Computer Science - Code BEAM SF 2018](https://www.youtube.com/watch?v=-I_jE0l7sYQ&list=PLvL2NEhYV4ZsIjT55t-kxylCU0BRlQjpl&index=3)
 * [Joe Armstrong • Reversing a list](https://www.youtube.com/watch?v=bg9wYS0znNM)
 * [Joe Armstrong • Erlang Masterclass](https://www.youtube.com/watch?v=nYgEny1goCY&list=PLR812eVbehlwq4qbqswOWH7NLKjodnTIn)
+* [Zandra Norman • Scaling Distributed Erlang • ElixirConfEu 2016](https://www.youtube.com/watch?v=usEs3GPnZDg)
 * [Erlang: The Movie](https://www.youtube.com/watch?v=xrIjfIjssLE)
 * [The Do's and Don'ts of Error Handling • Joe Armstrong • GOTO 2018](https://www.youtube.com/watch?v=TTM_b7EJg5E)
 * [Joe Armstrong & Alan Kay • Interview](https://www.youtube.com/watch?v=fhOHn9TClXY)
@@ -21,6 +22,8 @@
 * [Erlang Solutions • Why You Should Learn Erlang & Elixir](https://www.youtube.com/watch?v=_xg7u9iT_tU)
 * [Saša Juric • The Soul of Erlang and Elixir • GOTO 2019](https://www.youtube.com/watch?v=JvBT4XBdoUE)
 * [Fred Hebert • The Hitchhiker's Guide to the Unexpected - Code BEAM SF 2018](https://www.youtube.com/watch?v=W0BR_tWZChQ)
+* [Bryan Hunter • What every Node.js developer needs to know about Elixir](https://www.youtube.com/watch?v=q8wueg2hswA)
+* [Dave Thomas • Think Different • Elixir Conf 2014](https://www.youtube.com/watch?v=5hDVftaPQwY)
 
 ## Phoenix
 
