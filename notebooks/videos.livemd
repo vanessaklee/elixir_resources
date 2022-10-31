@@ -12,7 +12,7 @@
 
 ## Functional Programming 
 
-* [Joe Armstrong • Scala, Erlang, F# Creators Discuss Functional Languages](https://www.infoq.com/interviews/functional-langs/)
+* [Creators of Scala, Erlang, and F# Discuss Functional Languages](https://www.infoq.com/interviews/functional-langs/)
 * [Russ Olsen • Functional Programming in 40 Minutes • GOTO 2018](https://www.youtube.com/watch?v=0if71HOyVjY)
 * [Jim Weirich • Y Not - Adventures in Functional Programming • Ruby Conf 12](https://www.youtube.com/watch?v=FITJMJjASUs)
 
@@ -24,7 +24,7 @@
 
 ## Phoenix
 
-* [Lance Halvorsen • Phoenix Is Not Your Application (ElixirConfEU 2016)](https://www.youtube.com/watch?v=lDKCSheBc-8)
+* [Lance Halvorsen • Phoenix Is Not Your Application • ElixirConfEU 2016](https://www.youtube.com/watch?v=lDKCSheBc-8)
 
 ## General
 
