@@ -8,7 +8,7 @@
 * [Joe Armstrong • Erlang Masterclass](https://www.youtube.com/watch?v=nYgEny1goCY&list=PLR812eVbehlwq4qbqswOWH7NLKjodnTIn)
 * [Zandra Norman • Scaling Distributed Erlang • ElixirConfEu 2016](https://www.youtube.com/watch?v=usEs3GPnZDg)
 * [Erlang: The Movie](https://www.youtube.com/watch?v=xrIjfIjssLE)
-* [The Do's and Don'ts of Error Handling • Joe Armstrong • GOTO 2018](https://www.youtube.com/watch?v=TTM_b7EJg5E)
+* [Joe Armstrong • The Do's and Don'ts of Error Handling • GOTO 2018](https://www.youtube.com/watch?v=TTM_b7EJg5E)
 * [Joe Armstrong & Alan Kay • Interview](https://www.youtube.com/watch?v=fhOHn9TClXY)
 
 ## Functional Programming 
