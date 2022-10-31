@@ -1,6 +1,6 @@
 # Videos
 
-## Erlang / Functional Programming
+## Erlang
 
 * [Joe Armstrong • "The Mess We're In" by Joe Armstrong - StrangeLoop 2014](https://www.youtube.com/watch?v=lKXe3HUG2l4)
 * [Joe Armstrong • Keynote: The Forgotten Ideas in Computer Science - Code BEAM SF 2018](https://www.youtube.com/watch?v=-I_jE0l7sYQ&list=PLvL2NEhYV4ZsIjT55t-kxylCU0BRlQjpl&index=3)
@@ -8,11 +8,16 @@
 * [Joe Armstrong • Erlang Masterclass](https://www.youtube.com/watch?v=nYgEny1goCY&list=PLR812eVbehlwq4qbqswOWH7NLKjodnTIn)
 * [Erlang: The Movie](https://www.youtube.com/watch?v=xrIjfIjssLE)
 * [The Do's and Don'ts of Error Handling • Joe Armstrong • GOTO 2018](https://www.youtube.com/watch?v=TTM_b7EJg5E)
+* [Joe Armstrong & Alan Kay • Interview](https://www.youtube.com/watch?v=fhOHn9TClXY)
+
+## Functional Programming 
+
 * [Joe Armstrong • Scala, Erlang, F# Creators Discuss Functional Languages](https://www.infoq.com/interviews/functional-langs/)
 * [Russ Olsen • Functional Programming in 40 Minutes • GOTO 2018](https://www.youtube.com/watch?v=0if71HOyVjY)
+* [Jim Weirich • Y Not - Adventures in Functional Programming • Ruby Conf 12](https://www.youtube.com/watch?v=FITJMJjASUs)
 
 ## Elixir
-
+* [Jose Valim • Erlang Factory SF 2015 • What Elixir is about](https://www.youtube.com/watch?v=Lqo9-pQuRKE)
 * [Erlang Solutions • Why You Should Learn Erlang & Elixir](https://www.youtube.com/watch?v=_xg7u9iT_tU)
 * [Sasa Juric • The Soul of Erlang and Elixir • GOTO 2019](https://www.youtube.com/watch?v=JvBT4XBdoUE)
 * [Fred Hebert • The Hitchhiker's Guide to the Unexpected - Code BEAM SF 2018](https://www.youtube.com/watch?v=W0BR_tWZChQ)
@@ -21,4 +26,11 @@
 
 * [Lance Halvorsen • Phoenix Is Not Your Application (ElixirConfEU 2016)](https://www.youtube.com/watch?v=lDKCSheBc-8)
 
-## Section
+## General
+
+* [Bryan Cantrill • Debugging Under Fire: Keep your Head when Systems have Lost their Mind • GOTO 2017](https://www.youtube.com/watch?v=30jNsCVLpAE)
+* [1968 Doug Engelbart & Team • "Mother of All Demos"](https://www.youtube.com/watch?v=M5PgQS3ZBWA)
+* [Martin Fowler • Making Architecture Matter](https://www.youtube.com/watch?v=DngAZyWMGR0)
+* [Bret Victor • The Future of Programming](https://www.youtube.com/watch?v=8pTEmbeENF4)
+* [Rich Hickey • Simplicity Matters • Rails Conf 2012]()
+* [Indistinguishable From Magic: Manufacturing Modern Computer Chips](https://www.youtube.com/watch?v=NGFhc8R_uO4)
